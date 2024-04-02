@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kapto\\cs2 cheats\\analonia\\FileExplorer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A383BCE-4F3E-4D64-890E-9FFD8F74DC08}|FileExplorer.csproj|c:\\users\\kapto\\cs2 cheats\\analonia\\fileexplorer\\fileexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A383BCE-4F3E-4D64-890E-9FFD8F74DC08}|FileExplorer.csproj|solutionrelative:fileexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A383BCE-4F3E-4D64-890E-9FFD8F74DC08}|FileExplorer.csproj|c:\\users\\kapto\\cs2 cheats\\analonia\\fileexplorer\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{7A383BCE-4F3E-4D64-890E-9FFD8F74DC08}|FileExplorer.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A383BCE-4F3E-4D64-890E-9FFD8F74DC08}|FileExplorer.csproj|c:\\users\\kapto\\cs2 cheats\\analonia\\fileexplorer\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A383BCE-4F3E-4D64-890E-9FFD8F74DC08}|FileExplorer.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A383BCE-4F3E-4D64-890E-9FFD8F74DC08}|FileExplorer.csproj|c:\\users\\kapto\\cs2 cheats\\analonia\\fileexplorer\\fileexplorer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A383BCE-4F3E-4D64-890E-9FFD8F74DC08}|FileExplorer.csproj|solutionrelative:fileexplorer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\kapto\\cs2 cheats\\analonia\\FileExplorer\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\kapto\\cs2 cheats\\analonia\\FileExplorer\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:33:06.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileExplorer.csproj",
+              "DocumentMoniker": "C:\\Users\\kapto\\cs2 cheats\\analonia\\FileExplorer\\FileExplorer.csproj",
+              "RelativeDocumentMoniker": "FileExplorer.csproj",
+              "ToolTip": "C:\\Users\\kapto\\cs2 cheats\\analonia\\FileExplorer\\FileExplorer.csproj",
+              "RelativeToolTip": "FileExplorer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-10T04:04:20.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\kapto\\cs2 cheats\\analonia\\FileExplorer\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "MainWindow.axaml",
+              "ToolTip": "C:\\Users\\kapto\\cs2 cheats\\analonia\\FileExplorer\\MainWindow.axaml",
+              "RelativeToolTip": "MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-28T18:07:31.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileExplorer.cs",
+              "DocumentMoniker": "C:\\Users\\kapto\\cs2 cheats\\analonia\\FileExplorer\\FileExplorer.cs",
+              "RelativeDocumentMoniker": "FileExplorer.cs",
+              "ToolTip": "C:\\Users\\kapto\\cs2 cheats\\analonia\\FileExplorer\\FileExplorer.cs",
+              "RelativeToolTip": "FileExplorer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:24:31.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

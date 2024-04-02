@@ -1,0 +1,46 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:local="clr-namespace:FileExplorer"
+        mc:Ignorable="d" d:DesignWidth="1200" d:DesignHeight="800"
+        x:Class="FileExplorer.MainWindow"
+        Title="FileExplorer" Width="1200" Height="800" Background="SlateGray"
+		x:DataType="local:FileExplorer">
+
+	<Window.DataContext>
+		<local:FileExplorer/>
+	</Window.DataContext>
+
+	<Window.Styles>
+		<Style Selector="Button">
+			<Setter Property="Background" Value="DarkGray"/>
+			<Setter Property="Height" Value="50"/>
+			<Setter Property="HorizontalAlignment" Value="Stretch"/>
+			<Setter Property="VerticalContentAlignment" Value="Center"/>
+		</Style>
+	</Window.Styles>
+
+	<Grid ColumnDefinitions="*, 2*">
+		<ItemsControl ItemsSource="{Binding Files}" Grid.Column="0">
+			<ItemsControl.Template>
+				<ControlTemplate TargetType="ItemsControl">
+					<ScrollViewer>
+						<ItemsPresenter/>
+					</ScrollViewer>
+				</ControlTemplate>
+			</ItemsControl.Template>
+			<ItemsControl.ItemTemplate>
+				<DataTemplate>
+					<Button Click="HandleEvent" ToolTip.Tip="{Binding Path}">
+						<StackPanel Orientation="Horizontal">
+							<Image Source="{Binding Icon}"/>
+							<TextBlock Text="{Binding Name}" Margin="10" Foreground="Black"/>
+						</StackPanel>
+					</Button>
+				</DataTemplate>
+			</ItemsControl.ItemTemplate>
+		</ItemsControl>
+		<Image Grid.Column="1" Source="{Binding Image}"/>
+	</Grid>
+</Window>
